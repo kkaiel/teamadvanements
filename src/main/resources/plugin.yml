@@ -1,0 +1,6 @@
+name: TeamAdvancements
+version: 1.0.0
+main: kr.nightbeam.teamadvancements.TeamAdvancementsPlugin
+api-version: '26.3'
+depend: [DonutTeams]
+description: Shares completed vanilla advancements among Donut Teams members.
