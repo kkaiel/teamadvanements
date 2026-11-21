@@ -27,3 +27,6 @@ tasks.withType<JavaCompile>().configureEach {
 tasks.jar {
     archiveFileName.set("TeamAdvancements.jar")
 }
+tasks.processResources {
+    filteringCharset = "UTF-8"
+}
